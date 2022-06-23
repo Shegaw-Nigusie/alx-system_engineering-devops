@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown root:betty hello.txt
+chown root:betty hello
