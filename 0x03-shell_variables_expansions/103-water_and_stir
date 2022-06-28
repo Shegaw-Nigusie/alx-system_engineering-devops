@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((WATER+STIR))="bestschool"
+echo $(($WATER+$STIR))="bestschool"
