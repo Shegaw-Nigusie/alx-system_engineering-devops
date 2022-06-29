@@ -1,2 +1,2 @@
 #!/bin/bash
-find ~/lists -emoty -type f d
+find ~/lists -emoty 
